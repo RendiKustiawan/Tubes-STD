@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1557835137 source:c:\users\dimas guintana\downloads\tiket\main.cpp
+	"Tiket.h"
+
+1557835212 c:\users\dimas guintana\downloads\tiket\tiket.h
+	<iostream>
+	<stdlib.h>
+
+1557835212 source:c:\users\dimas guintana\downloads\tiket\tiket.cpp
+	"Tiket.h"
+
+1557835137 source:c:\users\dimas guintana\documents\telkom university\tingkat 1\semester 2\struktur data\tubes\tiket\main.cpp
+	"Tiket.h"
+
+1557835463 c:\users\dimas guintana\documents\telkom university\tingkat 1\semester 2\struktur data\tubes\tiket\tiket.h
+	<iostream>
+	<stdlib.h>
+
+1557835463 source:c:\users\dimas guintana\documents\telkom university\tingkat 1\semester 2\struktur data\tubes\tiket\tiket.cpp
+	"Tiket.h"
+
+1557835138 source:d:\semangat kuliah coy !!!!!!!\semester 2\tiket\main.cpp
+	"Tiket.h"
+
+1557972102 d:\semangat kuliah coy !!!!!!!\semester 2\tiket\tiket.h
+	<iostream>
+	<stdlib.h>
+
+1557991446 source:d:\semangat kuliah coy !!!!!!!\semester 2\tiket\tiket.cpp
+	"Tiket.h"
+
